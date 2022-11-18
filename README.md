@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cinthia Alves (@gitcinthia)
+- 👋 Hi, I’m Cinthia Alves (@cinthia-alves)
 
 - 🌱 I have experience in Molecular Biology techniques with a huge interesting in computer science area. Currently, I focus my studies on Data Science (DS), Data Visualization (using Power BI and Google Data Studio softwares) and Machine Learning (ML) to become a professional with abilities to move through biology, immunolgy and technology fields.
 
